@@ -1,0 +1,1 @@
+{"version":3,"file":"build.js","sourceRoot":"./sketch/","sources":["sketch.ts"],"names":[],"mappings":"AAAA,SAAS,KAAK;IACV,IAAI,MAAM,GAAG,YAAY,CAAC,GAAG,EAAE,GAAG,CAAC,CAAC;IACpC,MAAM,CAAC,MAAM,CAAC,iBAAiB,CAAC,CAAC;AAErC,CAAC;AAED,SAAS,IAAI;IACT,UAAU,CAAC,CAAC,CAAC,CAAA;AACjB,CAAC"}
